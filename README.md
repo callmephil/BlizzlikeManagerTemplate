@@ -1,2 +1,3 @@
 # BlizzlikeManagerTemplate
-Just doing some tests here
+
+Auto Generated of complete Roadmap for blizzlike P-S
